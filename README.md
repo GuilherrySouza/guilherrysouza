@@ -6,7 +6,7 @@
 ### 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,php,cs&size=32" />
+  <img src="https://skillicons.dev/icons?i=java,react,js,ts,html,css,python,php,json&size=32" />
 </p>
 
 ---
