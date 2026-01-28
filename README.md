@@ -5,18 +5,9 @@
 
 <p align="center">
   <!-- Front-end -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,js,ts&size=32" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,js,ts ---- > java,nodejs,python,php,json ---- > mysql,postgres,mongodb&size=32" />
 </p>
 
-<p align="center">
-  <!-- Back-end -->
-  <img src="https://skillicons.dev/icons?i=java,nodejs,python,php,json&size=32" />
-</p>
-
-<p align="center">
-  <!-- Banco de Dados -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&size=32" />
-</p>
 
 ### 🌐 Redes & Contato
 
