@@ -3,12 +3,9 @@
 
 ---
 
-### 🛠️ Tecnologias
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,js,ts,html,css,python,php,json&size=32" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mysql,postgres,mongodb&size=32" />
 </p>
-
 ---
 
 ### 🌐 Redes & Contato
