@@ -1,11 +1,11 @@
-## Oiii! Eu sou Guilherry Pereira de Souza 👋  
+## Olá, Eu sou Guilherry Souza 👋  
 ### 💻 Desenvolvedor Full Stack
 
 ---
 
 ### 🛠️ Tecnologias
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,php,cs&size=24" />
 
 ---
 
