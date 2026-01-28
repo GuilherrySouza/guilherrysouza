@@ -4,9 +4,19 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mysql,postgres,mongodb&size=32" />
+  <!-- Front-end -->
+  <img src="https://skillicons.dev/icons?i=html,css,react,js,ts&size=32" />
 </p>
----
+
+<p align="center">
+  <!-- Back-end -->
+  <img src="https://skillicons.dev/icons?i=java,nodejs,python,php,json&size=32" />
+</p>
+
+<p align="center">
+  <!-- Banco de Dados -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&size=32" />
+</p>
 
 ### 🌐 Redes & Contato
 
