@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- Front-end -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,js,ts ---- > java,nodejs,python,php,json ---- > mysql,postgres,mongodb&size=32" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,js,ts---->java,nodejs,python,php,json---->mysql,postgres,mongodb&size=32" />
 </p>
 
 
