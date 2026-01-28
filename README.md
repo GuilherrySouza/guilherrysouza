@@ -27,6 +27,7 @@
 
 ## 
 <div style="display: inline_block"><br>
+  <div align="center">
   <img align="center" alt="Guilherry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guilherry-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Guilherry-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -44,7 +45,7 @@
 ---
 
 ## 
-<div> 
+<div> <div align="center">
   <a href="https://instagram.com/guilherrysouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://twitter.com/guilherrysouza" target="_blank"> <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://discord.gg/srgui." target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -55,4 +56,8 @@
 ---
 
 ## 
-![Snake animation](https://github.com/guilherrysouza/guilherrysouza/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilherrysouza/guilherrysouza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilherrysouza/guilherrysouza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guilherrysouza/guilherrysouza/output/github-contribution-grid-snake.svg">
+</picture>
