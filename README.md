@@ -5,22 +5,25 @@
 ---
 
 ## 
-<div align="">
-  <table>
-    <tr>
-      <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=guilherrysouza&show_icons=true&bg_color=000000&title_color=1e90ff&text_color=1e90ff&icon_color=1e90ff" 
-          width="450"
-          />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherrysouza&layout=compact&theme=dark"
-          width="350"
-          height="350"
-          />
-      </td>
-    </tr>
-  </table>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Stats -->
+      <img
+  src="https://github-readme-stats.vercel.app/api?username=guilherrysouza&show_icons=true&hide_title=true&bg_color=000000&text_color=ffffff&icon_color=1e90ff"
+  width="450"
+      />
+    </td>
+    <td>
+      <!-- Top Languages -->
+      <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherrysouza&layout=compact&hide_title=true&bg_color=000000&text_color=1e90ff"
+  width="350"
+      />
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
