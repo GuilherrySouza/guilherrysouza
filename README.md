@@ -1,6 +1,8 @@
-## Olá, Eu sou Guilherry Souza! 👋
+<h2 align="center"> Olá, Eu sou Guilherry Souza! </h2>
 
-👨‍💻 Desenvolvedor apaixonado por tecnologia | 🚀 Sempre aprendendo novas linguagens
+<p align="center">
+   Desenvolvedor apaixonado por tecnologia |  Sempre aprendendo novas linguagens
+</p>
 
 ---
 
