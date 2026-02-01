@@ -11,18 +11,9 @@
 <table>
   <tr>
     <td>
-      <!-- GitHub Stats -->
-      <img
-  src="https://github-readme-stats.vercel.app/api?username=guilherrysouza&show_icons=true&hide_title=true&bg_color=000000&text_color=ffffff&icon_color=1e90ff"
-  width="450"
-      />
+      <img src="./profile-card.png" width="400" />
     </td>
     <td>
-      <!-- Top Languages -->
-      <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherrysouza&layout=compact&hide_title=true&bg_color=000000&text_color=1e90ff"
-  width="350"
-      />
     </td>
   </tr>
 </table>
